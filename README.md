@@ -3,7 +3,8 @@ name="LLM Memory Architecture (LMA)"
 version="1.0.1"
 language="en"
     
-A simple persistent memory semantic sintaxis for LLMs. Just upload to your chat interface or agent interface the LMA-Core-Specification-v1.0.1.md and the LMA-Memory-Template-v1.0.1.md. Ask to your LLM to modify the LMA-Memory-Template-v1.0.1.md with your own rules based on the LMA-Core-Specification-v1.0.1.md principles. That's it.
+A simple persistent memory semantic sintaxis for LLMs. Just upload to your chat interface or agent interface the LMA-Core-Specification-v1.0.1.md and the LMA-Memory-Template-v1.0.1.md. 
+Ask to your LLM to modify the LMA-Memory-Template-v1.0.1.md with your own rules based on the LMA-Core-Specification-v1.0.1.md principles. That's it.
 
 <br>
 
