@@ -1,5 +1,4 @@
 # LLM-Memory-Architecture-LMA-
-
 name="LLM Memory Architecture (LMA)"
 version="1.0.1"
 language="en"
