@@ -1,5 +1,6 @@
 # LLM-Memory-Architecture-LMA-
-A simple persistent memory semantic sintaxis for LLMs
+## Agnostic
+A simple persistent memory semantic sintaxis for LLMs. Just upload to your chat interface or agent the LMA-Core-Specification-v1.0.1.md and the LMA-Memory-Template-v1.0.1.md and ask to your LLM to modify the LMA-Memory-Template-v1.0.1.md with your own rules based on the LMA-Core-Specification-v1.0.1.md principles. That´s all.
 
 # LLM Memory Architecture (LMA) Core Specification v1.0.1
 
