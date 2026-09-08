@@ -421,7 +421,7 @@ LMA Core Specification v1.0.1 corresponds directly to LMA Memory Template v1.0.1
 
 ## 19. Credits 
 
-Author: Eric Fabiani (\[@EricFabiani\]([https://github.com/EricFabiani](https://github.com/EricFabiani)))
+Author: Eric Fabiani [@EricFabiani\]([https://github.com/EricFabiani](https://github.com/EricFabiani)
 
 ## 20. License
 
